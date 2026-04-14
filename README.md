@@ -5,3 +5,4 @@ Header file for RF communications were obtained through open source software. Se
 
 Written for esp32 development boards.
 
+Designs were drafted in KiCAD and production was outsourced to JLCPCB. Manufacturing settings can be found from their website.
