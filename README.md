@@ -7,4 +7,4 @@ Written for esp32 development boards.
 
 Designs were drafted in KiCAD and production was outsourced to JLCPCB. Manufacturing settings can be found from their website.
 
-Rest of the files are the files required by the manufacturer to produce the board.
+Rest of the files are ones required by the manufacturer to produce the board.
