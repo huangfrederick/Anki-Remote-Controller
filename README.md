@@ -1,7 +1,7 @@
 # Anki-Remote-Controller
 Simple wireless controller for reviewing anki decks. It's just 5 buttons to navigate the desktop UI.
 
-Header file for RF communications were obtained through open source software. See uploaded folder for details.
+Header file for bluetooth communications were obtained through open source software. Too lazy to write it myself. See uploaded 'ESP32-BLE-Keyboard' for details.
 
 Written for esp32 development boards.
 
