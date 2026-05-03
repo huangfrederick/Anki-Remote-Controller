@@ -1,5 +1,5 @@
 # Anki-Remote-Controller
-Making a simple controller for reviewing anki cards.
+Simple wireless controller for reviewing anki decks. It's just 5 buttons to navigate the desktop UI.
 
 Header file for RF communications were obtained through open source software. See uploaded folder for details.
 
