@@ -1,4 +1,4 @@
-# Anki-Remote-Controller
+# Custom Remote Control for Anki Flashcards
 Simple wireless controller for reviewing anki decks. It's just 5 buttons to navigate the desktop UI.
 
 Header file for bluetooth communications were obtained through open source software. Probably wasn't worth the time troubleshooting something written myself if there was already an existing platform for it. See uploaded 'ESP32-BLE-Keyboard' folder for details about the header file code.
